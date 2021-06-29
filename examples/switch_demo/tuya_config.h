@@ -6,8 +6,8 @@
 #ifndef TUYA_CONFIG_H_
 #define TUYA_CONFIG_H_
 
-#define TUYA_PRODUCT_KEY      "ff1lwoe4t5rkeg5m" // for test
-#define TUYA_DEVICE_UUID      "xxxxxxxxxxxxxxxxxxxx"
-#define TUYA_DEVICE_AUTHKEY   "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+#define TUYA_PRODUCT_KEY      "j2u64ndulilb7hae" // for test
+#define TUYA_DEVICE_UUID      "tuya5b81025a1c134e2b"
+#define TUYA_DEVICE_AUTHKEY   O1lfT6hgjjZyD7Kr4mTNRqObbyA7DJAm"
 
 #endif
